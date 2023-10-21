@@ -1,7 +1,5 @@
 # Tomato Disease Classifier:
 
-# Tomato Disease Classifier Mobile App
-
 ## Overview
 The Tomato Disease Classifier is an Android application developed to help farmers easily diagnose diseases affecting their tomato plants. Utilizing the power of Convolutional Neural Networks (CNNs) and a vast dataset of tomato plant images, this application achieves high accuracy rates in real-time disease classification. The application is backed by a FastAPI for efficient communication and uses a TensorFlow Lite model for seamless integration and performance on Android devices.
 
